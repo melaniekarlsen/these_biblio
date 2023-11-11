@@ -15,7 +15,7 @@ doi: 10.1002/psp4.12786
 > 
 > **Authors**::  [[Dominic Stefan Bräm]],  [[Neil Parrott]],  [[Lucy Hutchinson]],  [[Bernhard Steiert]]
 > 
-> **Tags**: #Read, #Annoted, #DataLitReview
+> **Tags**: #Read, #Annoted, #DataLitReview, #LSTM, #ANN
 > 
 > **Collections**:: [[New methods]]
 > 
@@ -42,6 +42,7 @@ Output: the next concentration in that sequence
 Training is fast. Training entirely done on simulated data from PBPK model. Predictions made both on simulated and real clinical data. Predictions are good, whether on single-dose or multiple-dose predictions, even with never-seen-before (from the trained dataset) dosing regimens. However, predictions on a new sub-population does require re-training on a data from this new population, however only a small dataset is required thanks to transfer learning. 
 Prediction of a single next concentration makes the error propagate a bit. 
 Aim of this method is very different to those of classical popPK modeling. This one could be mostly used to simulate new unseen dosing regimens, even only with simulated data from PBPK modeling. 
+Method could highly benefit from adding patients characteristics as input, both because it currently predicts little interindividual variability and because it could help undergo the need to feed the model with a very dense CT sequence.
 
 ---
 ## Reading notes
