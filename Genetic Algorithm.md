@@ -1,0 +1,4 @@
+#SelfMadeNotes
+
+* fitness function
+* 

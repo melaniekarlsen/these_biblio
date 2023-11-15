@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NeuralODE.md",
+                "file": "Genetic Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/article.md",
+                "file": "NeuralODE.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NeuralODE.md",
+                "file": "Genetic Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NeuralODE.md",
+                "file": "Genetic Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NeuralODE.md"
+                "file": "Genetic Algorithm.md"
               }
             }
           }
@@ -160,18 +160,18 @@
   },
   "active": "941bc0deec360333",
   "lastOpenFiles": [
-    "Untitled 4.md",
     "NeuralODE.md",
+    "template/article.md",
+    "Genetic Algorithm.md",
+    "Untitled 1.md",
     "bramIntroductionArtificialNeural2022.md",
     "ResNet_c.PNG.md",
     "images/ResNet_continous_layers.png",
     "images/ResNet.PNG",
     "images",
-    "template/article.md",
     "template/Default.md",
     "Untitled.canvas",
     "New methods.md",
-    "Untitled 1.md",
     "template",
     "article.md",
     "Introduction of an artificial neural network–based method for concentration-time predictions.md",
